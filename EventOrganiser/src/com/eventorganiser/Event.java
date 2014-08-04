@@ -5,6 +5,7 @@ package com.eventorganiser;
  * @author Prasenjit
  * @version 1.0
  */
+
 public class Event {
 
 	// Title of the Event
