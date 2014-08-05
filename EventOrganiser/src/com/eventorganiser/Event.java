@@ -11,6 +11,7 @@ public class Event {
 	// Title of the Event
 	private String talkTitle; 
 
+	
 	// Duration of the Event
 	private int duration;
 
